@@ -55,7 +55,7 @@ tic-tac-toe/
 
 🤖 Add single-player mode with AI
 
-🌐 Deploy online (GitHub Pages / Vercel / Netlify)
+🌐 Deploy online: https://tic-tac-toe-game-jvafz1s3l-haseeb-code1s-projects.vercel.app/
 
 📌 License
 This project is licensed under the MIT License – feel free to use and modify# Tic-Tac-Toe-Game
